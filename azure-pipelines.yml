@@ -9,7 +9,7 @@ trigger:
 
 
 pool:
-  vmImage: ubuntu-latest
+ name:Agent1
 
 steps:
 - task: Maven@3
